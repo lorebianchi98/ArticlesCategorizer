@@ -1,0 +1,30 @@
+Accuracy on test set:
+0.762962962962963
+Metrics per class on test set:
+                      precision    recall  f1-score   support
+
+            ambiente       0.81      0.92      0.86        60
+           attualita       0.76      0.58      0.66        60
+cultura-e-spettacolo       0.96      0.40      0.56        60
+   economia-e-lavoro       0.82      0.83      0.83        60
+               mondo       0.66      0.70      0.68        60
+            politica       0.78      0.97      0.87        60
+             scienze       0.90      0.58      0.71        60
+               sport       0.69      1.00      0.82        60
+          tecnologia       0.70      0.88      0.78        60
+
+            accuracy                           0.76       540
+           macro avg       0.79      0.76      0.75       540
+        weighted avg       0.79      0.76      0.75       540
+
+Confusion matrix:
+    am  ac c  ec m  p  sc sp t
+am [55  0  0  2  0  1  1  0  1]
+ac [ 0 35  0  7  5  6  2  2  3]
+c  [ 2  2 24  0  8  2  1 11 10]
+ec [ 0  1  0 50  2  2  0  3  2]
+m  [ 1  4  1  1 42  4  0  4  3]
+p  [ 0  0  0  0  2 58  0  0  0]
+sc [ 8  4  0  0  3  1 35  5  4]
+sp [ 0  0  0  0  0  0  0 60  0]
+t  [ 2  0  0  1  2  0  0  2 53]

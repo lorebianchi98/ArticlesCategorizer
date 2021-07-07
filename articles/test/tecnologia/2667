@@ -1,0 +1,49 @@
+Come funziona Signal, l’app di messaggistica usata dai protagonisti del caso Luca Sacchi (e approvata da Snowden)
+L’app
+di messaggistica approvata da Snowden
+I messaggi che spariscono e le chiavi di sicurezza
+L’app punta tutto sulla sicurezza. È stata approvata da Snowden, viene usata dal Senato americano ma anche da chi ha tutto l’interesse a nascondere le proprie conversazioni alla polizia
+L’app Signal è stata citata da un ragazzo che è solo una comparsa nell’omicidio di Luca Sacchi. Non è Valerio Del Grosso, che ha sparato, non è il complice Paolo Pirino, non è lo spacciatore Marcello De Propis o l’amico Giuseppe Princi. E non è nemmeno Anastasia Kylmenyk, il cui ruolo, in tutto questo, è ancora molto incerto.
+Lui si chiama Costanzo Marino Munoz. È uno studente, è cileno e Luca lo conosceva perché condividevano la passione per le moto. Nella sua deposizione racconta degli ultimi contatti con Luca la sera del 23 ottobre: 
+«Alle ore 22.30 ho ricevuto sul mio cellulare, tramite applicazione Signal, un messaggio da parte di Luca, il quale mi comunicava che era in compagnia della sua fidanzata Anastasiya e che mi invitava a raggiungerlo per bere una birra al pub di via Bartoloni»
+Poi si scoprirà che tutto il gruppo, anche Anastasia e i killer, usavano proprio questa app per la messaggistica personale.
+Sicurezza. È questo il valore su cui punta Signal, l’app creata dal collettivo no profit Open Whisper Systems. Nato nel 2013, l’obiettivo di questo gruppo di sviluppatori è quello di rendere più sicure le conversazioni tra privati. Su GitHub, social dedicato ai programmatori, si possono trovare i loro progetti, compreso il codice sorgente di Signal. 
+Gli
+sviluppatori di Signal garantiscono due cose: la prima è che sui
+loro server gli unici dati degli utenti che vengono archiviati sono
+quelli relativi al momento della creazione dell’account e al momento
+in cui è stato fatto l’ultimo accesso.
+
+Niente
+messaggi, niente foto, niente posizioni e nemmeno immagini del
+profilo. Nel 2016 in Virginia, sulla costa est degli Stati Uniti,
+durante un’indagine l’FBI aveva provato a chiedere agli sviluppatori
+di Signal delle informazioni sui loro dati. Tutto quello che aveva
+trovato erano proprio quelli sul momento della creazione dell’account
+e sull’ultimo accesso.
+
+La
+sicurezza dell’app è stata certificata dall’endorsement di diverse
+sviluppatori e istituzioni. Nel 2015 Edward Snowden, l’informatico
+che ha svelato i programmi di sorveglianza della National Security
+Agency, aveva scritto su Twitter: «Uso
+Signal ogni giorno. #notesforFBI (Spoiler: lo sanno già)».
+
+I use Signal every day. #notesforFBI (Spoiler: they already know) https://t.co/KNy0xppsN0
+E
+non solo. Il Sergeant at Arms del Senato degli Stati Uniti è il
+funzionario federale che si occupa della sicurezza per questo organo
+dello stato. Nel 2017, quando questa carica era ricoperta da Frank J.
+Larkin. Ovviamente la sicurezza è garantita per qualsiasi utente,
+anche per chi, come nel caso di Roma, potrebbe essere coinvolto in un
+giro di spaccio di droga.
+
+Nel febbraio 2018 Biran Acton, cofandatore di WhatsApp ha donato alla fondazione che sostiene Signal 50 milioni di dollari. Pochi mesi prima Acton aveva deciso di uscire da Facebook, società a cui Whatsapp è stata ceduta per 14 miliardi di dollari.
+Una volta scaricata dal Google Play Store o dall’Apple Store, Signal sembra un servizio di messaggistica uguale a molti altri che ci sono passati sotto le dita. Si può telefonare e mandare messaggi, foto, posizioni Gps, documenti e messaggi vocali. Anche la registrazione sembra uguale al solito, serve un codice di verifica che viene inviato via Sms. 
+Oltre a questo, però, Signal garantisce altre due cose. La prima sono i messaggi a tempo. Si può impostare una funzione per far scomparire un testo, o una foto, dopo che sono stati aperti. Il timer di questi “Messaggi a Scomparsa” va dai 5 secondi a una settimana. I messaggi possono essere anche cancellati, senza lasciare tracce. 
+L’altra
+caratteristica di Signal è quella di garantire la possibilità agli
+utenti di verificare l’identità di un loro contatto. Con l’opzione
+“Mostra codice di sicurezza” possiamo vedere la chiavi con cui
+stiamo crittografando una conversazione e confrontarla con quella del
+nostro contatto.

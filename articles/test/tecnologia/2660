@@ -1,0 +1,17 @@
+Whatsapp, basta un messaggio e la chat di gruppo si distrugge: il bug scoperto dai ricercatori israeliani
+Come
+funziona il bug che distruggeva le chat di gruppo
+Il rischio per fortuna non esiste più, almeno per chi ha sempre fatto gli aggiornamenti
+Un bug, qualche riga di codice e poi il crash totale, che impedisce all’applicazione anche solo di rimanere aperta. Check Point Software Technologies, azienda israeliana, ha scoperta una nuova vulnerabilità di WhatsApp, l’app di messaggistica più utilizzata al mondo. 
+Il miliardo e mezzo di utenti che la usa (secondo gli ultimi dati di febbraio 2018) forse non sospettava che un solo messaggio da una chat di gruppo sarebbe bastato per impedire all’app di rimanere aperta per più di qualche istante. 
+Check
+Point, come da prassi in questi casi, ha segnalato il bug
+direttamente a WhatsApp lo scorso agosto. L’azienda ha così
+provveduto a un aggiornamento con la versione 2.19.246. Se avete una
+chat di gruppo con amici programmatori a cui avete fatto qualche
+torto, forse è meglio controllare che la vostra app sia
+perfettamente aggiornata.
+
+Tutti i passaggi dell’analisi sono riportati sul sito di Check Point, compresi i dettagli tecnici per creare un messaggio con cui distruggere una chat di gruppo. Il codice poteva essere creato sfruttando WhatsApp Web, la piattaforma che permette all’app di essere usata da desktop.
+Una volta creata la striscia di codice e inviata in un gruppo, l’effetto è devastante. L’app va in crash e non riesce più ad aprirsi. Un bug per cui non c’è soluzione, tanto che gli stessi ricercatori di Check Point sostengono che l’unico modo per farla ripartire è disinstallare l’app e installarla di nuovo.In questo modo tutto tornerà nella norma. O quasi. La chat infetta non potrà più essere aperta e dovrà venire eliminata appena installato il nuovo WhatsApp.
+Foto di copertina: Background photo created by natanaelginting – www.freepik.com

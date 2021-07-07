@@ -1,0 +1,17 @@
+La tecnologia per “vedere” gli oggetti attraverso una parete grazie ai suoni
+Dare una «sbirciatina» coi suoni
+Cos’è l’imaging sismico
+Coi suoni si «vede» meglio
+Vedere attraverso i muri coi suoni è possibile, con un dispositivo che “ascolta” tra gli angoli
+L’esperto di robotica e intelligenza artificiale Matthew Hutson ha illustrato su Science un prototipo in grado di aggirare gli angoli delle pareti con le onde sonore, riuscendo a elaborare con l’eco l’immagine degli oggetti nascosti dall’altra parte. La ricerca è stata svolta presso lo Stanford computational imaging lab (Sci). 
+“Vedere” con le onde sonore è una delle tante facoltà che siamo riusciti con una certa fatica a copiare dalla natura: l’eco-localizzazione o bio-sonar è qualcosa che diverse specie di pipistrelli utilizzano già. 
+Certamente anche i sommergibili possono essere dotati di appositi sonar, che attraverso una banda di frequenze compresa tra infrasuoni e ultrasuoni riescono a localizzare altri oggetti. 
+Qui parliamo di un dispositivo che funziona in maniera un po’ diversa: è in grado infatti di “vedere” aggirando gli ostacoli, dando una «sbirciatina» tra gli angoli. 
+Presentato alla Computer vision and pattern recognition conference di Long Beach in California, richiederà ancora diverso tempo per essere messo a punto, ma i primi risultati sembrano promettenti.
+Non si tratta di “penetrare” una parete bensì di aggirarla, come è stato già sperimentato attraverso le onde elettromagnetiche, in particolare quelle luminose (metodo ottico).
+I ricercatori hanno quindi provato a fare qualcosa di analogo piazzando una serie di microfoni e altoparlanti lungo un’asta, collegata a un apposito dispositivo.
+Attraverso degli algoritmi solitamente impiegati nell’“imaging sismico”, durante l’esperimento il dispositivo è riuscito a ricostruire parzialmente la forma di una lettera “H” piazzata al di là di una parete. Hanno poi ripetuto l’operazione con le lettere “L” e “T”.
+L’imaging sismico è una tecnica impiegata per studiare le condizioni del sottosuolo: viene applicata una intensa fonte sonora a cui seguono alcune eco captati da appositi “geofoni”. 
+Parliamo di una tecnologia che si ispira al rilevamento elettromagnetico. Nell’esplorazione spaziale per rilevare bacini idrici sotto il Polo Sud marziano è stato utilizzato – tanto per fare un esempio – un radar, è possibile infatti calcolare il modo in cui le onde elettromagnetiche si comportano a seconda dei materiali che attraversano, rilevando anomalie nel sottosuolo.
+Ad oggi l’utilizzo di onde sonore per questo genere di impieghi sembra molto conveniente rispetto al metodo ottico, ancora piuttosto costoso e con prestazioni ridotte, come spiega lo stesso Hutson:
+«Il metodo ottico, che richiede apparecchiature costose, non è riuscito a riprodurre la L più distante, e ci è voluto più di un’ora, rispetto ai soli 4,5 minuti per il metodo acustico».

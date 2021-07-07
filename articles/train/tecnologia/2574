@@ -1,0 +1,53 @@
+Immuni non si deve scaricare perché è dei cinesi? Cosa c’è di vero nelle parole di Salvini
+Perchè
+Salvini ha citato i cinesi?
+Il parere del Garante della privacy
+La
+conservazione degli indirizzi Ip
+Il leader della Lega non ha accolto bene l’arrivo dell’app del governo. Alla trasmissione Quarta Repubblic ha detto che non l’avrebbe nemmeno scaricata
+Fra tutte le domande che hanno accompagnato lo sviluppo dell’app Immuni, quelle sulla sicurezza personale sono state le più frequenti. Chi raccoglie i dati? Come vengono conservati? Come è possibile condividere dati sugli spostamenti e dati sanitari così sensibili? E questo clima di sfiducia si legge nella app stessa che è molto attenta, come abbiamo mostrato nella nostra prova, a spiegare agli utenti tutti i provvedimenti presi per garantire la sicurezza dei loro dati. Eppure non tutti i dubbi sullo strumento che dovrebbe accompagnarci nella Fase 2 dell’epidemia di Coronavirus sono stati risolti. 
+A poche ore dopo il rilascio di Immuni, è proprio la privacy il tema che hanno scelto di cavalcare le opposizioni. A partire dal leader della Lega Matteo Salvini che ha Quarta Repubblica ha detto: «Non scarico la app fino a quando non sono sicuro che i dati degli italiani, la loro vita privata, non vadano in mano a qualcuno che ha magari soci cinesi. Ci penso 18 volte…perché la Cina non è una democrazia». 
+Sulla stessa linea Fratelli d’Italia che ha criticato la scelta del governo di non far passare le decisioni sull’app dal Parlamento: «Non scarico la app fino a quando non sono sicuro che i dati degli italiani, la loro vita privata, non vadano in mano a qualcuno che ha magari soci cinesi. Ci penso 18 volte…perché la Cina non è una democrazia».
+Per capire le parole di Salvini è necessario guardare oltre alle schermate di Immuni. L’applicazione è stata sviluppata dalla softwtare house milanese Bending Spoons. Secondo un comunicato ufficiale della stessa Bending Spoons, nel luglio del 2019 la società ha annunciato l’ingresso nel proprio capitale di tre realtà: H14, il StarTip e NUO Capital. Se H14 è un family office collegato a Fininvest, NUO Capital è una holding che gestisce gli investimenti della famiglia PAO/Cheng di Hong Kong. 
+A guidare il fondo è Stephen Cheng, uomo d’affari erede una ricca famiglia cinese. Laureato ad Harvard, appassionato d’arte, Cheng negli scorsi anni aveva fatto notizia in Italia per i suoi interessi ad investire nel made in Italy. NUO Capital infatti aveva già investito in altre aziende come Sozzi Arredamenti e l’ecommerce di vino Tannico. 
+Il riferimento a NUO Capital si può trovare anche nella relazione su Immuni pubblicata dal Copasir, il Comitato parlamentare per la sicurezza della Repubblica. Il Copasir ha approvato la sua relazione sull’app Immuni il 13 maggio, per trasmetterla poi il 14. Anche qui si guarda con attenzione al ruolo di NUO Capital: 
+«Il fondo NUO Capital (New Understanding Opportunities) è riconducibile a Stephen Cheng, noto uomo d’affari. Si ricorda che la legge cinese sulla sicurezza nazionale, obbliga, in via generale, cittadini e organizzazioni a fornire supporto e assistenza alle autorità militari di pubblica sicurezza e alle agenzie di intelligence».
+Tornando ai documenti sulla privacy di Immuni, l’ultimo ok per la pubblicazione dell’app è arrivato dal Garante della Privacy. Questa autorità amministrativa si occupa di garantire ai cittadini la tutela dei dati personali. Nella sua relazione su Immuni il Garante approva il rilascio dell’app, chiedendo però agli sviluppatori delle correzioni che andranno fatte entro i prossimi 30 giorni.
+Con l’avvocato esperto di privacy Giovanni Battista Gallus abbiamo provato a capire quali sono i nodi più importanti ancora da risolvere con Immuni. Gallus parte però da una premessa: «Se ogni informativa della Pubblica Amministrazione fosse chiara come quella di Immuni sulla privacy, quasi ci metterei la firma. Bisogna però ricordare che l’attenzione alla sicurezza non termina con il rilascio dell’app. Va seguita anche dopo». 
+L’app traccia i nostri contatti ma non usa la geolocalizzazione ma non accede al nostro numero personale. La tecnologia che usa è invece quella del Bluetooth e per registrare i contatti utilizza un sistema che rende anonimi i dati. In questo articolo abbiamo fornito una spiegazione più dettagliata di tutti i meccanismi dell’app, analizzando anche il codice sorgente pubblicato nei giorni scorsi. 
+Tra
+le segnalazioni fatte dal Garante della Privacy. Quella più
+importante riguarda la conservazione degli indirizzi Ip. Se pensiamo
+a internet come a una rete stradale e agli utenti come dei veicoli,
+gli indirizzi Ip sono le targhe di quei veicoli e da questi è
+possibile capire quale connessione abbiamo utilizzato per accedere
+alla rete. In pratica dove abbiamo immatricolato il veicoli.
+
+«Se
+io mi collego dalla rete WiFi o da quella del mio smartphone, il mio
+Ip cambia. Quindi – spiega Gallus – si può identificare il mio
+telefono in base alla rete da rete cui mi collego. Ormai è pacifico
+considerare l’indirizzo Ip un dato personale».
+Qualsiasi piattaforma conserva gli indirizzi Ip per motivi di
+sicurezza: in caso di attacchi informatici sono infatti strumenti in
+più per risalire all’identità dei colpevoli.
+
+Anche
+Immuni quindi conserva gli indirizzi Ip ma, come si può leggere
+nell’informativa della privacy, «Non
+viene conservato nell’ambito del sistema di allerta Covid-19». Come
+conferma Gallus questo passaggio andrebbe chiarito, per capire dove e
+per quanto sono conservati questi indirizzi: «Abbinato insieme ad
+altri dati, l’Ip potrebbe portare all’identificazione dell’utente. Su
+questo punto c’è bisogno di maggiore chiarezza. Per questo il
+Garante della Privacy ha chiesto di verificare dove vengono
+conservati».
+
+Come
+l’analisi del condice sorgente ha già chiarito i due servizi
+principali forniti dall’app si appoggeranno su due server: il server
+privato Akamai, società con sede negli Stati Uniti, e la rete Sogei
+società in
+house del
+ministero dell’Economia. Chiarire dove saranno conservati gli Ip è
+uno degli ultimi passaggi che mancano per garantire la trasparenza.
